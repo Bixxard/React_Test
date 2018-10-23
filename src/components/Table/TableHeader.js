@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-
 // CHILD ROW
 import TableHeaderRow from './TableHeaderRow';
 class TableHeader extends Component {
@@ -24,8 +23,5 @@ class TableHeader extends Component {
         );
     }
 }
-
-
-
 export default TableHeader;
 
